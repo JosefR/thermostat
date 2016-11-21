@@ -1,4 +1,4 @@
-PROJECT=envsensor
+PROJECT=thermostat
 
 SRC = startup_stm32f072xb.s system_stm32f0xx.c stm32f0xx_hal_msp.c stm32f0xx_it.c main.c
 INC = -Ilib/STM32F0xx_HAL_Driver/Inc -I. -Ilib/CMSIS/Include -Ilib/CMSIS/Device/ST/STM32F0xx/Include
