@@ -1,5 +1,0 @@
-.
-lib/CMSIS/Device/ST/STM32F0xx/Include
-lib/CMSIS/Include
-lib/STM32F0xx_HAL_Driver/Inc
-lib/STM32F0xx_HAL_Driver/Inc/Legacy
